@@ -6,7 +6,10 @@ This is an python Implementation of RSA encryption and decryption algorithm. Bas
 2. Find RSA.py and run it in python 2.7.
 3. Try to modify the code of last line, where you can find ```RSA_process(p=103, q=97, message="hello world")```, you can change the value p, q and the message to other value and see how output changes. 
 
-## python version
+## Python Version
 I used Python 2.7 to finished the code. Please note using python 3.x may cause unexpected problems.
 
 Have fun! :)
+
+Reference:
+https://www.zhihu.com/question/25038691/answer/388573650
