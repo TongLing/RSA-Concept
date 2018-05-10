@@ -12,5 +12,5 @@ I used Python 2.7 to finished the code. Please note using python 3.x may cause u
 Have fun! :)
 
 ## Reference:
-知乎回答-RSA 算法的加密原理是什么？(https://www.zhihu.com/question/25038691/answer/388573650)
-Wikipedia - RSA Cryptosystem (https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+- 知乎回答-RSA 算法的加密原理是什么？(https://www.zhihu.com/question/25038691/answer/388573650)
+- Wikipedia - RSA Cryptosystem (https://en.wikipedia.org/wiki/RSA_(cryptosystem))
